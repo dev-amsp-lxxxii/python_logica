@@ -1,0 +1,5 @@
+# Exercício 2.3
+"""
+Faça um programa que exiba seu nome na tela.
+"""
+print("Adelmo Menezes da Silva Protázio")
