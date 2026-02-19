@@ -16,9 +16,12 @@ Nilo Ney Coutinho Menezes
 
 ## Links referente ao Python:
 
-- [Python.org](https://www.python.org/).
+- [python.org](https://www.python.org/).
 - [Documentação Python 3.14](https://docs.python.org/pt-br/3/).
-- [Pypi.org/](https://pypi.org/).
+- [pypi.org/](https://pypi.org/).
+- [jupyter.org](https://jupyter.org/).
+- [pythontutor.com](https://pythontutor.com/).
+
 
 
 
